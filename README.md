@@ -69,6 +69,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ##### This project was originally developed by:
 
-*Jose Osorio*
-*Patricia Pereira*
-*Macarena Riquelme*
+*Jose Osorio, Patricia Pereira, Macarena Riquelme.*
